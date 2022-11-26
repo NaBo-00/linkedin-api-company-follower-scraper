@@ -23,7 +23,6 @@ Please keep in mind that this only functions when certain conditions are met:
   
 - valid LinkedIn account with Admin rights to a company
   
-
 ## Configuration
 
 - Python Version used: Python 3.8.5
@@ -55,9 +54,8 @@ Please keep in mind that this only functions when certain conditions are met:
     c. Apply all changes with "apply"
     
     <div><img alt="edit_config1.png" src="img/edit_config1.png"/></div>
-        <div><img alt="edit_config1.png" src="img/edit_config2.png"/></div>
+    <div><img alt="edit_config1.png" src="img/edit_config2.png"/></div>
     
-
 ## Common Issues
 
 If issues occur it can be due to the fast changing source code of IG the code needs to be maintained, if this is the case open an issue and ill get to is asap
@@ -69,9 +67,13 @@ Possible Solutions:
 - Try to re-specify the HTML elements in particular the pop-up message handler using the xPath or full xPath selector
   
 - Make sure that the Chromedriver suits your google Chrome version
-  
 
 → If there are other issues don't hesitate to open a new [issue](https://github.com/NaBo-00/linkedin-api-company-follower-scraper/issues/new).
+
+## Legal :warning:
+This script is in no way affiliated with, authorized, maintained, sponsored or endorsed by LinkedIn or any of its affiliates or subsidiaries. Developed for research and educational purposes ONLY - Use at your own risk.
+
+This project violates LinkedIn's Terms of Service (TOS), and because of this, LinkedIn may (and will) temporarily or permanently ban your account. I'm not responsible for your account being banned or any actions you perform.
 
 ## Contact
 
@@ -79,6 +81,6 @@ If you have any questions, face any problems or have any improvement suggestions
 
 ---
 
-Made by NaBo-00 | Copyright (c) NaBo-00 | All Rights Reserved
+Made by NaBo-00 | Copyright &copy; NaBo-00 | All Rights Reserved
 
 <div><img alt="NaBo-00-logo.png" src="img/NaBo-00-logo.png" width="100" height="60" /></div>
