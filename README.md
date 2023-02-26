@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-| :warning: | Use on your own risk, the author of this project is not liable for :exclamation: |
+| :warning: | Use at your own risk, the author of this project is not liable for :exclamation: |
 | --- | --- |
 | :warning: | This project was made for research and educational purposes **ONLY**:exclamation: |
 | :warning: | This project violates Linkedin's User Agreement, and because of this, Linkedin may (and will) temporarily or permanently ban your account. We are not responsible for your account being banned:exclamation: |
